@@ -1,0 +1,7 @@
+{
+  "name": "Sinbihan Geni - 신비한 제니 솔루션",
+  "description": "신비롭고 전문적인 Geni 솔루션 상담원과 함께하는 차세대 AI 비즈니스 컨설팅 플랫폼입니다.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
